@@ -53,3 +53,15 @@ flex: 41.6% 0 0;
 .col-12 {
   flex: 100% 0 0;
 }
+.card {
+  background-color:bisque;
+  border: 1px solid black;
+  box-shadow: 3px 3px 15px black;
+  margin-bottom:20px;
+}
+.card .card-image {
+  width: 100%;
+}
+.card .card-content {
+  padding: 10px 15px;
+}
